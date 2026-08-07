@@ -119,21 +119,6 @@ The application will open automatically in your default web browser.
 
 ---
 
-## 📸 Screenshots
-
-You can add screenshots here after uploading your project.
-
-Example:
-
-```text
-screenshots/
-├── home.png
-├── summary.png
-└── chat.png
-```
-
----
-
 ## 📌 Future Improvements
 
 - Support additional audio and document formats
