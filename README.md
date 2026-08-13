@@ -1,21 +1,21 @@
-# 🎙️ GenAI RAG Assistant
+# GenAI RAG Assistant
 
 An AI-powered Retrieval-Augmented Generation (RAG) application built with **Python** and **Streamlit** that enables users to transcribe audio, generate concise summaries, and ask intelligent questions about the content using Large Language Models (LLMs).
 
 ---
 
-## 🚀 Features
+## Features
 
-- 🎤 Upload audio files for processing
-- 📝 Convert speech to text using Whisper
-- 📄 Generate AI-powered summaries
-- 💬 Ask questions about the transcribed content using RAG
-- ⚡ Interactive and user-friendly Streamlit interface
-- 🔍 Semantic retrieval for context-aware responses
+- Upload audio files for processing
+- Convert speech to text using Whisper
+- Generate AI-powered summaries
+- Ask questions about the transcribed content using RAG
+- Interactive and user-friendly Streamlit interface
+- Semantic retrieval for context-aware responses
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Python**
 - **Streamlit**
@@ -27,7 +27,7 @@ An AI-powered Retrieval-Augmented Generation (RAG) application built with **Pyth
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 GenAI-RAG-Assistant/
@@ -51,7 +51,7 @@ GenAI-RAG-Assistant/
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 ### 1. Clone the repository
 
@@ -96,7 +96,7 @@ WHISPER_MODEL=small
 
 ---
 
-## ▶️ Running the Application
+## Running the Application
 
 Start the Streamlit application with:
 
@@ -108,7 +108,7 @@ The application will open automatically in your default web browser.
 
 ---
 
-## 🔄 How It Works
+## How It Works
 
 1. Upload an audio file.
 2. The audio is transcribed using Whisper.
@@ -119,7 +119,7 @@ The application will open automatically in your default web browser.
 
 ---
 
-## 📌 Future Improvements
+## Future Improvements
 
 - Support additional audio and document formats
 - Deploy the application on the cloud
@@ -130,19 +130,19 @@ The application will open automatically in your default web browser.
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions, suggestions, and improvements are welcome. Feel free to fork the repository and submit a pull request.
 
 ---
 
-## 📄 License
+## License
 
 This project is intended for educational and portfolio purposes.
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Diksha Verma**
 
